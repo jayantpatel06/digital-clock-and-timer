@@ -15,7 +15,7 @@
   script.js – The JavaScript file that handles the clock, timer, and beep sound.  
   
 🚀 Live Demo  
-You can view the live version of this project here:  
+You can view the live version of this project here:-  
 GitHub Pages Link (Replace with your actual GitHub Pages link.)  
 
 🔧 Installation & Usage   
