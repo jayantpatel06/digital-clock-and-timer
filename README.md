@@ -1,5 +1,5 @@
 ⏳ Digital Clock & Countdown Timer  
-  A modern, animated digital clock and a countdown timer with a stylish UI, smooth animations, and a reliable beep sound using the Web Audio API.  
+  A modern, animated digital clock ha and a countdown timer with a stylish UI, smooth animations, and a reliable beep sound using the Web Audio API.  
 
 🌟 Features  
 1. Digital Clock – Displays real-time hours, minutes, and seconds.  
